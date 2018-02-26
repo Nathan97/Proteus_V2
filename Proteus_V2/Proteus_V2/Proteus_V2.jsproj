@@ -60,6 +60,14 @@
     </AppxManifest>
     <Content Include=".jsbeautifyrc" />
     <Content Include=".travis.yml" />
+    <Content Include="CONTRIBUTING.md" />
+    <Content Include="fileBrowser.html" />
+    <Content Include="home-bg.jpg" />
+    <Content Include="js\treant\structures\fs-structure-v0.1.js" />
+    <Content Include="js\windows\fileBrowser.js" />
+    <Content Include="main.css" />
+    <Content Include="main.js" />
+    <Content Include="project.xml" />
     <Content Include="treant2.html" />
     <Content Include="css\treant\basic-example.css" />
     <Content Include="js\treant\generate-chart.js" />
