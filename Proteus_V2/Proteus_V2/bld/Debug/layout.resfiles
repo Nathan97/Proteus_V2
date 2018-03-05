@@ -9,11 +9,8 @@ css\sb-admin.css
 css\sb-admin.min.css
 css\treant\basic-example.css
 css\treant\treant.css
-demo_gantt_chart.js
-external-gantt.js
 fileBrowser.html
 forgot-password.html
-ganttindex.html
 gulpfile.js
 home-bg.jpg
 images\LockScreenLogo.scale-200.png
@@ -38,8 +35,6 @@ js\treant\structures\example-structure.js
 js\treant\structures\fs-structure-v0.1.js
 js\treant\treant-loader.js
 js\windows\fileBrowser.js
-jsgantt.css
-jsgantt.js
 lib\three.js\three.js-dev\.gitattributes
 lib\three.js\three.js-dev\.github\CONTRIBUTING.md
 lib\three.js\three.js-dev\.github\ISSUE_TEMPLATE.md
@@ -2655,8 +2650,6 @@ lib\winjs-4.0.1\fonts\Symbols.ttf
 lib\winjs-4.0.1\js\base.js
 lib\winjs-4.0.1\js\ui.js
 LICENSE
-loader.html
-loader2.html
 login.html
 main.css
 main.js
@@ -2696,7 +2689,13 @@ scss\navbar\_navbar_global.scss
 scss\navbar\_navbar_static.scss
 scss\navbar\_navbar_toggle.scss
 scss\sb-admin.scss
+stlviewer\aero.html
+stlviewer\chassis.html
+stlviewer\suspension.html
+stlviewer\template.html
 tables.html
+testpages\loader.html
+testpages\loader2.html
 treant.html
 treant2.html
 vendor\bootstrap\css\bootstrap.css

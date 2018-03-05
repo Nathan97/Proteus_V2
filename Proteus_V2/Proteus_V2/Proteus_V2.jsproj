@@ -65,6 +65,10 @@
     <Content Include="home-bg.jpg" />
     <Content Include="js\treant\structures\fs-structure-v0.1.js" />
     <Content Include="js\windows\fileBrowser.js" />
+    <Content Include="stlviewer\aero.html" />
+    <Content Include="stlviewer\template.html" />
+    <Content Include="stlviewer\suspension.html" />
+    <Content Include="stlviewer\chassis.html" />
     <Content Include="main.css" />
     <Content Include="main.js" />
     <Content Include="project.xml" />
@@ -72,7 +76,7 @@
     <Content Include="css\treant\basic-example.css" />
     <Content Include="js\treant\generate-chart.js" />
     <Content Include="js\treant\structures\example-structure.js" />
-    <Content Include="loader2.html" />
+    <Content Include="testpages\loader2.html" />
     <Content Include="blank.html" />
     <Content Include="cards.html" />
     <Content Include="charts.html" />
@@ -2711,7 +2715,7 @@
     <Content Include="lib\winjs-4.0.1\css\ui-dark.css" />
     <Content Include="lib\winjs-4.0.1\fonts\Symbols.ttf" />
     <Content Include="LICENSE" />
-    <Content Include="loader.html" />
+    <Content Include="testpages\loader.html" />
     <Content Include="js\threejs\loader.js" />
     <Content Include="login.html" />
     <Content Include="navbar.html" />
