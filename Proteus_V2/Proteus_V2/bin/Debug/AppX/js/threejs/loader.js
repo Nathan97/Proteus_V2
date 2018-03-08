@@ -53,8 +53,14 @@ window.addEventListener("load", function () {
     
     // file input button
     var input = document.getElementById("file");
-    input.addEventListener("change", function (ev) {
+    input.addEventListener("load", function (ev) {
         var file = ev.target.files[0];
+        var fileURL = window.URL.createObjectURL(file);
+        console.log("CONSOLE LOG FILE URL");
+        console.log(fileURL);
+
+        file = "appx://b9bdac4d-ff26-4446-bfff-10361942b656/ac4ba7fd-893e-40d6-99c8-d4a4eed25b19"
+
         openFile(file);
     }, false);
     

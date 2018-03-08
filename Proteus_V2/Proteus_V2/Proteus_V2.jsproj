@@ -63,6 +63,7 @@
     <Content Include="CONTRIBUTING.md" />
     <Content Include="fileBrowser.html" />
     <Content Include="home-bg.jpg" />
+    <Content Include="js\threejs\demo_model.stl" />
     <Content Include="js\treant\structures\fs-structure-v0.1.js" />
     <Content Include="js\windows\fileBrowser.js" />
     <Content Include="stlviewer\aero.html" />

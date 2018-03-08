@@ -28,6 +28,7 @@ js\sb-admin-charts.js
 js\sb-admin-charts.min.js
 js\sb-admin-datatables.js
 js\sb-admin-datatables.min.js
+js\threejs\demo_model.stl
 js\threejs\loader.js
 js\threejs\stl.js
 js\treant\generate-chart.js

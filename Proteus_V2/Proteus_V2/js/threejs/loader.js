@@ -22,10 +22,13 @@ window.addEventListener("load", function () {
     var light2 = new THREE.DirectionalLight(0xffffff);
     light2.position.set(0, -100, -100);
     scene.add(light2);
-    
+
+    //create material that can be added to the geom
     var mat = new THREE.MeshPhongMaterial({
         color: 0x339900, ambient: 0x339900, specular: 0x030303,
     });
+
+    //creates obj that holds geom and mat, is replaced with the stl + mat
     var obj = new THREE.Mesh(new THREE.Geometry(), mat);
     scene.add(obj);
     
@@ -40,12 +43,25 @@ window.addEventListener("load", function () {
     
     // file load
     var openFile = function (file) {
+        //create new file reader
         var reader = new FileReader();
+
+        //when a new file is added to the loader
         reader.addEventListener("load", function (ev) {
+
+            //buffer = the file that is added when the event loader is triggered from the filereader
             var buffer = ev.target.result;
+
+            //Geom = file
             var geom = loadStl(buffer);
+
+            //Remove previous obj
             scene.remove(obj);
+
+            //create new obj that is formed of the new geom, and the mat creation
             obj = new THREE.Mesh(geom, mat);
+
+            //Add the new obj to the scene
             scene.add(obj);
         }, false);
         reader.readAsArrayBuffer(file);
@@ -56,6 +72,14 @@ window.addEventListener("load", function () {
     input.addEventListener("change", function (ev) {
         var file = ev.target.files[0];
         openFile(file);
+
+        //Try and make it load a model on page load (on chassis page, load chassis model etc.)
+        //var fileURL = window.URL.createObjectURL(file);
+        //console.log("CONSOLE LOG FILE URL");
+        //console.log(fileURL);
+        //file = "appx://b9bdac4d-ff26-4446-bfff-10361942b656/ac4ba7fd-893e-40d6-99c8-d4a4eed25b19"
+        //http://researchhubs.com/post/computing/javascript/open-a-local-file-with-javascript.html
+
     }, false);
     
     // dnd

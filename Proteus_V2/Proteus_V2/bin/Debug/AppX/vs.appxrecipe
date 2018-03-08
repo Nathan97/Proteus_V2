@@ -32,7 +32,7 @@
     <AppXManifest Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:39:04.485</Modified>
+      <Modified>2018-03-08T21:09:02.256</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -154,19 +154,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\aero.html">
       <PackagePath>stlviewer\aero.html</PackagePath>
-      <Modified>2018-03-05T16:14:02.103</Modified>
+      <Modified>2018-03-08T21:18:04.200</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\template.html">
       <PackagePath>stlviewer\template.html</PackagePath>
-      <Modified>2018-03-05T16:44:38.329</Modified>
+      <Modified>2018-03-08T21:18:01.074</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\suspension.html">
       <PackagePath>stlviewer\suspension.html</PackagePath>
-      <Modified>2018-03-05T16:14:02.103</Modified>
+      <Modified>2018-03-08T21:18:04.122</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\chassis.html">
       <PackagePath>stlviewer\chassis.html</PackagePath>
-      <Modified>2018-03-05T16:14:02.103</Modified>
+      <Modified>2018-03-08T21:18:04.168</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\treant2.html">
       <PackagePath>treant2.html</PackagePath>
@@ -3491,6 +3491,34 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\tests\blend\textures\uv_grid.jpg">
       <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\tests\blend\textures\uv_grid.jpg</PackagePath>
       <Modified>2018-02-25T15:42:11.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\demo_model.stl">
+      <PackagePath>js\threejs\demo_model.stl</PackagePath>
+      <Modified>2012-08-14T15:34:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl</PackagePath>
+      <Modified>2018-02-25T15:41:52.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl</PackagePath>
+      <Modified>2018-02-25T15:41:52.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl</PackagePath>
+      <Modified>2018-02-25T15:41:52.640</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl</PackagePath>
+      <Modified>2018-02-25T15:41:52.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl</PackagePath>
+      <Modified>2018-02-25T15:41:52.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl</PackagePath>
+      <Modified>2018-02-25T15:41:52.700</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\treant\structures\fs-structure-v0.1.js">
       <PackagePath>js\treant\structures\fs-structure-v0.1.js</PackagePath>
@@ -7518,7 +7546,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\loader.js">
       <PackagePath>js\threejs\loader.js</PackagePath>
-      <Modified>2018-02-25T17:29:09.063</Modified>
+      <Modified>2018-03-08T21:54:31.849</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\stl.js">
       <PackagePath>js\threejs\stl.js</PackagePath>
@@ -9690,30 +9718,6 @@
       <PackagePath>lib\three.js\three.js-dev\examples\models\sea3d\sound.tjs.sea</PackagePath>
       <Modified>2018-02-25T15:41:51.432</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl</PackagePath>
-      <Modified>2018-02-25T15:41:52.596</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl</PackagePath>
-      <Modified>2018-02-25T15:41:52.614</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl</PackagePath>
-      <Modified>2018-02-25T15:41:52.640</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl</PackagePath>
-      <Modified>2018-02-25T15:41:52.664</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl</PackagePath>
-      <Modified>2018-02-25T15:41:52.681</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl</PackagePath>
-      <Modified>2018-02-25T15:41:52.700</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\utf8\ben.utf8">
       <PackagePath>lib\three.js\three.js-dev\examples\models\utf8\ben.utf8</PackagePath>
       <Modified>2018-02-25T15:41:53.017</Modified>
@@ -11073,7 +11077,7 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-05T16:39:03.328</Modified>
+      <Modified>2018-03-08T21:09:01.119</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

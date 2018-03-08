@@ -2617,6 +2617,27 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\tests\blend\textures\uv_grid.jpg">
       <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\tests\blend\textures\uv_grid.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\demo_model.stl">
+      <PackagePath>js\threejs\demo_model.stl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\treant\structures\fs-structure-v0.1.js">
       <PackagePath>js\treant\structures\fs-structure-v0.1.js</PackagePath>
     </AppxPackagedFile>
@@ -7266,24 +7287,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\sea3d\sound.tjs.sea">
       <PackagePath>lib\three.js\three.js-dev\examples\models\sea3d\sound.tjs.sea</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_pan.stl</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\pr2_head_tilt.stl</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\ascii\slotted_disk.stl</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\colored.stl</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_pan.stl</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\utf8\ben.utf8">
       <PackagePath>lib\three.js\three.js-dev\examples\models\utf8\ben.utf8</PackagePath>
