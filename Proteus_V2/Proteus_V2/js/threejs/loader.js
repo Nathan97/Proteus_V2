@@ -1,6 +1,6 @@
 window.addEventListener("load", function () {
     "use strict";
-    
+    //script to generate scene and STL object.
     var w = 500, h = 500;
     
     var renderer = new THREE.WebGLRenderer();
@@ -25,7 +25,9 @@ window.addEventListener("load", function () {
 
     //create material that can be added to the geom
     var mat = new THREE.MeshPhongMaterial({
-        color: 0x339900, ambient: 0x339900, specular: 0x030303,
+        color:      0x666666,  //object colour
+        ambient:    0x339900,  //
+        specular:   0x030303,  //background colour
     });
 
     //creates obj that holds geom and mat, is replaced with the stl + mat

@@ -32,7 +32,7 @@
     <AppXManifest Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-09T13:30:41.476</Modified>
+      <Modified>2018-03-09T18:17:22.351</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -146,7 +146,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\README.md">
       <PackagePath>README.md</PackagePath>
-      <Modified>2018-02-25T15:47:38.005</Modified>
+      <Modified>2018-03-09T14:53:50.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\dev.html">
+      <PackagePath>dev.html</PackagePath>
+      <Modified>2018-03-09T18:05:57.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\fileBrowser.html">
       <PackagePath>fileBrowser.html</PackagePath>
@@ -154,15 +158,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\jsonTester.html">
       <PackagePath>js\threejs\jsonTester.html</PackagePath>
-      <Modified>2018-03-09T13:32:50.578</Modified>
+      <Modified>2018-03-09T15:53:28.071</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\aero.html">
       <PackagePath>stlviewer\aero.html</PackagePath>
       <Modified>2018-03-08T21:18:04.200</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2018-03-09T18:16:29.993</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\template.html">
       <PackagePath>stlviewer\template.html</PackagePath>
-      <Modified>2018-03-08T21:18:01.074</Modified>
+      <Modified>2018-03-09T16:57:06.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\suspension.html">
       <PackagePath>stlviewer\suspension.html</PackagePath>
@@ -190,15 +198,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\charts.html">
       <PackagePath>charts.html</PackagePath>
-      <Modified>2018-02-25T15:47:38.052</Modified>
+      <Modified>2018-03-09T17:35:46.917</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\forgot-password.html">
       <PackagePath>forgot-password.html</PackagePath>
       <Modified>2018-02-25T15:47:38.068</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\index.html">
-      <PackagePath>index.html</PackagePath>
-      <Modified>2018-03-09T13:22:39.818</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\api\animation\AnimationAction.html">
       <PackagePath>lib\three.js\three.js-dev\docs\api\animation\AnimationAction.html</PackagePath>
@@ -3526,11 +3530,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\myFunction.js">
       <PackagePath>js\threejs\myFunction.js</PackagePath>
-      <Modified>2018-03-09T13:30:35.174</Modified>
+      <Modified>2018-03-09T14:54:09.519</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\myTutorials.js">
-      <PackagePath>js\threejs\myTutorials.js</PackagePath>
-      <Modified>2018-03-09T13:22:41.350</Modified>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\json\myTutorials.js">
+      <PackagePath>js\threejs\json\myTutorials.js</PackagePath>
+      <Modified>2018-03-09T14:54:10.095</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\treant\structures\fs-structure-v0.1.js">
       <PackagePath>js\treant\structures\fs-structure-v0.1.js</PackagePath>
@@ -7558,7 +7562,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\loader.js">
       <PackagePath>js\threejs\loader.js</PackagePath>
-      <Modified>2018-03-08T23:20:59.928</Modified>
+      <Modified>2018-03-09T16:05:34.530</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\stl.js">
       <PackagePath>js\threejs\stl.js</PackagePath>
@@ -11089,7 +11093,7 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-09T13:30:40.086</Modified>
+      <Modified>2018-03-09T18:17:21.226</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -8,13 +8,16 @@
     <meta name="author" content="">
     <title>SB Admin - Start Bootstrap Template</title>
     <!-- Bootstrap core CSS-->
-    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom fonts for this template-->
-    <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <!-- Page level plugin CSS-->
+    <link href="vendor/datatables/dataTables.bootstrap4.css" rel="stylesheet">
     <!-- Custom styles for this template-->
-    <link href="/css/sb-admin.css" rel="stylesheet">
+    <link href="css/sb-admin.css" rel="stylesheet">
 </head>
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">
+    <!-- Navigation-->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
         <a class="navbar-brand" href="index.html">Proteus</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -29,17 +32,44 @@
                     </a>
                 </li>
                 <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
-                    <a class="nav-link" href="dev.html">
+                    <a class="nav-link" href="charts.html">
                         <i class="fa fa-fw fa-area-chart"></i>
-                        <span class="nav-link-text">Dev</span>
+                        <span class="nav-link-text">Charts</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+                    <a class="nav-link" href="loader2.html">
+                        <i class="fa fa-fw fa-area-chart"></i>
+                        <span class="nav-link-text">STL Loader</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+                    <a class="nav-link" href="treant2.html">
+                        <i class="fa fa-fw fa-area-chart"></i>
+                        <span class="nav-link-text">Treant</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+                    <a class="nav-link" href="fileBrowser.html">
+                        <i class="fa fa-fw fa-area-chart"></i>
+                        <span class="nav-link-text">File Browser</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+                    <a class="nav-link" href="js/threejs/jsonTester.html">
+                        <i class="fa fa-fw fa-area-chart"></i>
+                        <span class="nav-link-text">JSON Tester</span>
                     </a>
                 </li>
                 <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Example Pages">
-                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseStlViewerPages" data-parent="#exampleAccordion">
+                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseProjects" data-parent="#exampleAccordion">
                         <i class="fa fa-fw fa-file"></i>
                         <span class="nav-link-text">Projects</span>
                     </a>
-                    <ul class="sidenav-second-level collapse" id="collapseStlViewerPages">
+                    <ul class="sidenav-second-level collapse" id="collapseProjects">
+                        <li>
+                            <a href="stlviewer/landing.html">Landing</a>
+                        </li>
                         <li>
                             <a href="stlviewer/chassis.html">Chassis</a>
                         </li>
@@ -66,10 +96,104 @@
                         <li>
                             <a href="">Add product requirement</a>
                         </li>
+                    </ul>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Example Pages">
+                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseTestPages" data-parent="#exampleAccordion">
+                        <i class="fa fa-fw fa-file"></i>
+                        <span class="nav-link-text">Test Pages</span>
+                    </a>
+                    <ul class="sidenav-second-level collapse" id="collapseTestPages">
                         <li>
-                            <a href="">Add meeting notes</a>
+                            <a href="testpages/loader.html">Loader 1</a>
+                        </li>
+                        <li>
+                            <a href="testpages/loader2.html">Loader 2</a>
                         </li>
                     </ul>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
+                    <a class="nav-link" href="ganttindex.html">
+                        <i class="fa fa-fw fa-area-chart"></i>
+                        <span class="nav-link-text">Gantt</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
+                    <a class="nav-link" href="tables.html">
+                        <i class="fa fa-fw fa-table"></i>
+                        <span class="nav-link-text">Tables</span>
+                    </a>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
+                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
+                        <i class="fa fa-fw fa-wrench"></i>
+                        <span class="nav-link-text">Components</span>
+                    </a>
+                    <ul class="sidenav-second-level collapse" id="collapseComponents">
+                        <li>
+                            <a href="navbar.html">Navbar</a>
+                        </li>
+                        <li>
+                            <a href="cards.html">Cards</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Example Pages">
+                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseExamplePages" data-parent="#exampleAccordion">
+                        <i class="fa fa-fw fa-file"></i>
+                        <span class="nav-link-text">Example Pages</span>
+                    </a>
+                    <ul class="sidenav-second-level collapse" id="collapseExamplePages">
+                        <li>
+                            <a href="login.html">Login Page</a>
+                        </li>
+                        <li>
+                            <a href="register.html">Registration Page</a>
+                        </li>
+                        <li>
+                            <a href="forgot-password.html">Forgot Password Page</a>
+                        </li>
+                        <li>
+                            <a href="blank.html">Blank Page</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Menu Levels">
+                    <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti" data-parent="#exampleAccordion">
+                        <i class="fa fa-fw fa-sitemap"></i>
+                        <span class="nav-link-text">Menu Levels</span>
+                    </a>
+                    <ul class="sidenav-second-level collapse" id="collapseMulti">
+                        <li>
+                            <a href="#">Second Level Item</a>
+                        </li>
+                        <li>
+                            <a href="#">Second Level Item</a>
+                        </li>
+                        <li>
+                            <a href="#">Second Level Item</a>
+                        </li>
+                        <li>
+                            <a class="nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti2">Third Level</a>
+                            <ul class="sidenav-third-level collapse" id="collapseMulti2">
+                                <li>
+                                    <a href="#">Third Level Item</a>
+                                </li>
+                                <li>
+                                    <a href="#">Third Level Item</a>
+                                </li>
+                                <li>
+                                    <a href="#">Third Level Item</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Link">
+                    <a class="nav-link" href="#">
+                        <i class="fa fa-fw fa-link"></i>
+                        <span class="nav-link-text">Link</span>
+                    </a>
                 </li>
             </ul>
             <ul class="navbar-nav sidenav-toggler">
@@ -199,7 +323,7 @@
                             <div class="card-body-icon">
                                 <i class="fa fa-fw fa-comments"></i>
                             </div>
-                            <div class="mr-5">6 New Product Requirements!</div>
+                            <div class="mr-5">26 New Messages!</div>
                         </div>
                         <a class="card-footer text-white clearfix small z-1" href="#">
                             <span class="float-left">View Details</span>
@@ -215,7 +339,7 @@
                             <div class="card-body-icon">
                                 <i class="fa fa-fw fa-list"></i>
                             </div>
-                            <div class="mr-5">11 New Decisions Have Been Made!</div>
+                            <div class="mr-5">11 New Tasks!</div>
                         </div>
                         <a class="card-footer text-white clearfix small z-1" href="#">
                             <span class="float-left">View Details</span>
@@ -231,7 +355,7 @@
                             <div class="card-body-icon">
                                 <i class="fa fa-fw fa-shopping-cart"></i>
                             </div>
-                            <div class="mr-5">2 New Meeting Notes!</div>
+                            <div class="mr-5">123 New Orders!</div>
                         </div>
                         <a class="card-footer text-white clearfix small z-1" href="#">
                             <span class="float-left">View Details</span>
@@ -247,7 +371,7 @@
                             <div class="card-body-icon">
                                 <i class="fa fa-fw fa-support"></i>
                             </div>
-                            <div class="mr-5">13 Design Alterations!</div>
+                            <div class="mr-5">13 New Tickets!</div>
                         </div>
                         <a class="card-footer text-white clearfix small z-1" href="#">
                             <span class="float-left">View Details</span>
@@ -257,6 +381,16 @@
                         </a>
                     </div>
                 </div>
+            </div>
+            <!-- Area Chart Example-->
+            <div class="card mb-3">
+                <div class="card-header">
+                    <i class="fa fa-area-chart"></i> Area Chart Example
+                </div>
+                <div class="card-body">
+                    <canvas id="myAreaChart" width="100%" height="30"></canvas>
+                </div>
+                <div class="card-footer small text-muted">Updated yesterday at 11:59 PM</div>
             </div>
             <div class="row">
                 <div class="col-lg-8">
@@ -268,9 +402,7 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-sm-8 my-auto">
-                                    <!-- Example Chart Canvas -->
-                                    <canvas id="canvas"></canvas>
-                                    <script src="/js/chartjs/burndown.js"></script>
+                                    <canvas id="myBarChart" width="100" height="50"></canvas>
                                 </div>
                                 <div class="col-sm-4 text-center my-auto">
                                     <div class="h4 mb-0 text-primary">$34,693</div>
@@ -1083,12 +1215,19 @@
             </div>
         </div>
         <!-- Bootstrap core JavaScript-->
-        <script src="/vendor/jquery/jquery.min.js"></script>
-        <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
         <!-- Core plugin JavaScript-->
-        <script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
+        <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+        <!-- Page level plugin JavaScript-->
+        <script src="vendor/chart.js/Chart.min.js"></script>
+        <script src="vendor/datatables/jquery.dataTables.js"></script>
+        <script src="vendor/datatables/dataTables.bootstrap4.js"></script>
         <!-- Custom scripts for all pages-->
-        <script src="/js/sb-admin.min.js"></script>
+        <script src="js/sb-admin.min.js"></script>
+        <!-- Custom scripts for this page-->
+        <script src="js/sb-admin-datatables.min.js"></script>
+        <script src="js/sb-admin-charts.min.js"></script>
     </div>
 </body>
 </html>

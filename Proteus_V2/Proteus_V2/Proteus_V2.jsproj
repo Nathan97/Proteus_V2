@@ -61,15 +61,17 @@
     <Content Include=".jsbeautifyrc" />
     <Content Include=".travis.yml" />
     <Content Include="CONTRIBUTING.md" />
+    <Content Include="dev.html" />
     <Content Include="fileBrowser.html" />
     <Content Include="home-bg.jpg" />
     <Content Include="js\threejs\demo_model.stl" />
     <Content Include="js\threejs\myFunction.js" />
-    <Content Include="js\threejs\myTutorials.js" />
+    <Content Include="js\threejs\json\myTutorials.js" />
     <Content Include="js\threejs\jsonTester.html" />
     <Content Include="js\treant\structures\fs-structure-v0.1.js" />
     <Content Include="js\windows\fileBrowser.js" />
     <Content Include="stlviewer\aero.html" />
+    <Content Include="index.html" />
     <Content Include="stlviewer\template.html" />
     <Content Include="stlviewer\suspension.html" />
     <Content Include="stlviewer\chassis.html" />
@@ -95,7 +97,6 @@
     <Content Include="images\Square44x44Logo.targetsize-24_altform-unplated.png" />
     <Content Include="images\StoreLogo.png" />
     <Content Include="images\Wide310x150Logo.scale-200.png" />
-    <Content Include="index.html" />
     <Content Include="js\main.js" />
     <Content Include="css\default.css" />
     <Content Include="js\sb-admin-charts.js" />
@@ -2840,7 +2841,7 @@
     <None Include="Proteus_V2_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="js\threejs\json\" />
+    <Folder Include="js\chartjs\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <!-- To modify your build process, add your task inside one of the targets below then uncomment
