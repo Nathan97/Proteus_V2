@@ -64,6 +64,9 @@
     <Content Include="fileBrowser.html" />
     <Content Include="home-bg.jpg" />
     <Content Include="js\threejs\demo_model.stl" />
+    <Content Include="js\threejs\myFunction.js" />
+    <Content Include="js\threejs\myTutorials.js" />
+    <Content Include="js\threejs\jsonTester.html" />
     <Content Include="js\treant\structures\fs-structure-v0.1.js" />
     <Content Include="js\windows\fileBrowser.js" />
     <Content Include="stlviewer\aero.html" />
@@ -2835,6 +2838,9 @@
     <Content Include="vendor\perfect-scrollbar\perfect-scrollbar.js" />
     <Content Include="vendor\raphael.js" />
     <None Include="Proteus_V2_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="js\threejs\json\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
   <!-- To modify your build process, add your task inside one of the targets below then uncomment

@@ -29,7 +29,10 @@ js\sb-admin-charts.min.js
 js\sb-admin-datatables.js
 js\sb-admin-datatables.min.js
 js\threejs\demo_model.stl
+js\threejs\jsonTester.html
 js\threejs\loader.js
+js\threejs\myFunction.js
+js\threejs\myTutorials.js
 js\threejs\stl.js
 js\treant\generate-chart.js
 js\treant\structures\example-structure.js
