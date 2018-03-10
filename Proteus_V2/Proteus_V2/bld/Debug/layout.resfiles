@@ -2661,6 +2661,8 @@ main.js
 navbar.html
 package.json
 package-lock.json
+pages\tools\decision_create.html
+pages\tools\decision_display.html
 project.xml
 pug\blank.pug
 pug\cards.pug

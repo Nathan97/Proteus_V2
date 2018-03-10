@@ -118,6 +118,12 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\jsonTester.html">
       <PackagePath>js\threejs\jsonTester.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\pages\tools\decision_display.html">
+      <PackagePath>pages\tools\decision_display.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\pages\tools\decision_create.html">
+      <PackagePath>pages\tools\decision_create.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\aero.html">
       <PackagePath>stlviewer\aero.html</PackagePath>
     </AppxPackagedFile>

@@ -70,6 +70,14 @@
     <Content Include="js\threejs\jsonTester.html" />
     <Content Include="js\treant\structures\fs-structure-v0.1.js" />
     <Content Include="js\windows\fileBrowser.js" />
+    <Content Include="pages\tools\create_designNote.html" />
+    <Content Include="pages\tools\create_meetingNotes.html" />
+    <Content Include="pages\tools\dispay_decisions.html" />
+    <Content Include="pages\tools\create_decision.html" />
+    <Content Include="pages\tools\display_DesignNotes.html" />
+    <Content Include="pages\tools\display_meetingNotes.html" />
+    <Content Include="pages\tools\create_productRequirement.html" />
+    <Content Include="pages\tools\display_productRequirements.html" />
     <Content Include="stlviewer\aero.html" />
     <Content Include="index.html" />
     <Content Include="stlviewer\template.html" />
