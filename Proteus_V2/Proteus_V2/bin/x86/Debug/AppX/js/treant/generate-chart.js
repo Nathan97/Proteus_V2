@@ -1,0 +1,1 @@
+﻿new Treant(chart_config);

@@ -32,7 +32,7 @@
     <AppXManifest Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-11T17:25:23.685</Modified>
+      <Modified>2018-03-19T17:37:14.242</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -47,6 +47,18 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\.travis.yml">
       <PackagePath>lib\sql.js\.travis.yml</PackagePath>
       <Modified>2018-03-11T17:02:41.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\analytics.xml">
+      <PackagePath>analytics.xml</PackagePath>
+      <Modified>2018-03-19T17:36:54.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\project.xml">
+      <PackagePath>project.xml</PackagePath>
+      <Modified>2018-02-26T10:57:19.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\analytics.xsd">
+      <PackagePath>analytics.xsd</PackagePath>
+      <Modified>2018-03-19T17:31:18.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\CONTRIBUTING.md">
       <PackagePath>CONTRIBUTING.md</PackagePath>
@@ -226,7 +238,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\template.html">
       <PackagePath>stlviewer\template.html</PackagePath>
-      <Modified>2018-03-10T14:24:16.532</Modified>
+      <Modified>2018-03-19T17:29:35.977</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\suspension.html">
       <PackagePath>stlviewer\suspension.html</PackagePath>
@@ -3556,6 +3568,10 @@
       <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\tests\blend\textures\uv_grid.jpg</PackagePath>
       <Modified>2018-02-25T15:42:11.373</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\driverjs\test.js">
+      <PackagePath>js\driverjs\test.js</PackagePath>
+      <Modified>2018-03-17T14:21:34.361</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\sqljs\require.js">
       <PackagePath>js\sqljs\require.js</PackagePath>
       <Modified>2018-03-11T17:24:38.011</Modified>
@@ -3566,7 +3582,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\sqljs\test.js">
       <PackagePath>js\sqljs\test.js</PackagePath>
-      <Modified>2018-03-11T17:36:19.339</Modified>
+      <Modified>2018-03-11T17:37:34.299</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\threejs\myFunction.js">
       <PackagePath>js\threejs\myFunction.js</PackagePath>
@@ -3583,6 +3599,54 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\js\windows\fileBrowser.js">
       <PackagePath>js\windows\fileBrowser.js</PackagePath>
       <Modified>2018-02-26T09:48:35.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\demo\scripts\demo.js">
+      <PackagePath>lib\driver.js\demo\scripts\demo.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\demo\scripts\emoji.js">
+      <PackagePath>lib\driver.js\demo\scripts\emoji.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\dist\driver.min.js">
+      <PackagePath>lib\driver.js\dist\driver.min.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\common\constants.js">
+      <PackagePath>lib\driver.js\src\common\constants.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\common\polyfill.js">
+      <PackagePath>lib\driver.js\src\common\polyfill.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\common\utils.js">
+      <PackagePath>lib\driver.js\src\common\utils.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\core\element.js">
+      <PackagePath>lib\driver.js\src\core\element.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\core\overlay.js">
+      <PackagePath>lib\driver.js\src\core\overlay.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\core\popover.js">
+      <PackagePath>lib\driver.js\src\core\popover.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\core\position.js">
+      <PackagePath>lib\driver.js\src\core\position.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\core\stage.js">
+      <PackagePath>lib\driver.js\src\core\stage.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.692</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\index.js">
+      <PackagePath>lib\driver.js\src\index.js</PackagePath>
+      <Modified>2018-03-17T14:07:33.520</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\js\shell-post.js">
       <PackagePath>lib\sql.js\js\shell-post.js</PackagePath>
@@ -3663,6 +3727,18 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\test\test_worker.js">
       <PackagePath>lib\sql.js\test\test_worker.js</PackagePath>
       <Modified>2018-03-11T17:02:42.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\services\analytics\analytics.js">
+      <PackagePath>services\analytics\analytics.js</PackagePath>
+      <Modified>2018-03-10T16:41:51.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\services\analytics\script.js">
+      <PackagePath>services\analytics\script.js</PackagePath>
+      <Modified>2018-03-19T17:24:11.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\services\analytics\tag.js">
+      <PackagePath>services\analytics\tag.js</PackagePath>
+      <Modified>2018-03-19T17:20:20.895</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\main.js">
       <PackagePath>main.js</PackagePath>
@@ -7808,549 +7884,17 @@
       <PackagePath>lib\three.js\three.js-dev\examples\models\stl\binary\pr2_head_tilt.stl</PackagePath>
       <Modified>2018-02-25T15:41:52.700</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\.gitignore">
-      <PackagePath>lib\sql.js\.gitignore</PackagePath>
-      <Modified>2018-03-11T17:02:41.430</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\.gitignore">
-      <PackagePath>lib\three.js\three.js-dev\.gitignore</PackagePath>
-      <Modified>2018-02-25T15:41:24.059</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\.gitignore">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\.gitignore</PackagePath>
-      <Modified>2018-02-25T15:42:10.154</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\.npmignore">
-      <PackagePath>lib\sql.js\.npmignore</PackagePath>
-      <Modified>2018-03-11T17:02:41.446</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\.npmignore">
-      <PackagePath>lib\three.js\three.js-dev\.npmignore</PackagePath>
-      <Modified>2018-02-25T15:41:24.074</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\AUTHORS">
-      <PackagePath>lib\sql.js\AUTHORS</PackagePath>
-      <Modified>2018-03-11T17:02:41.467</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\exported_functions">
-      <PackagePath>lib\sql.js\exported_functions</PackagePath>
-      <Modified>2018-03-11T17:02:41.530</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\exported_runtime_methods">
-      <PackagePath>lib\sql.js\exported_runtime_methods</PackagePath>
-      <Modified>2018-03-11T17:02:41.546</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\LICENSE">
-      <PackagePath>lib\sql.js\LICENSE</PackagePath>
-      <Modified>2018-03-11T17:02:41.483</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\Makefile">
-      <PackagePath>lib\sql.js\Makefile</PackagePath>
-      <Modified>2018-03-11T17:02:41.499</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\NOTICE">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\NOTICE</PackagePath>
-      <Modified>2018-02-25T15:41:37.282</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\LICENSE">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\LICENSE</PackagePath>
-      <Modified>2018-02-25T15:41:37.165</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\README">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\README</PackagePath>
-      <Modified>2018-02-25T15:41:37.176</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\mmd\LICENSE">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\mmd\LICENSE</PackagePath>
-      <Modified>2018-02-25T15:41:48.865</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\LICENSE">
-      <PackagePath>lib\three.js\three.js-dev\LICENSE</PackagePath>
-      <Modified>2018-02-25T15:41:24.106</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\fbx\LICENSE">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\fbx\LICENSE</PackagePath>
-      <Modified>2018-02-25T15:42:09.674</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\README">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\README</PackagePath>
-      <Modified>2018-02-25T15:42:09.994</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\LICENSE">
-      <PackagePath>LICENSE</PackagePath>
-      <Modified>2018-02-25T15:47:37.991</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\api-data.coffee">
-      <PackagePath>lib\sql.js\coffee\api-data.coffee</PackagePath>
-      <Modified>2018-03-11T17:02:41.730</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\api.coffee">
-      <PackagePath>lib\sql.js\coffee\api.coffee</PackagePath>
-      <Modified>2018-03-11T17:02:41.746</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\exports.coffee">
-      <PackagePath>lib\sql.js\coffee\exports.coffee</PackagePath>
-      <Modified>2018-03-11T17:02:41.768</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\worker.coffee">
-      <PackagePath>lib\sql.js\coffee\worker.coffee</PackagePath>
-      <Modified>2018-03-11T17:02:41.784</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\extension-functions.c">
-      <PackagePath>lib\sql.js\c\extension-functions.c</PackagePath>
-      <Modified>2018-03-11T17:02:41.584</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\sqlite3.c">
-      <PackagePath>lib\sql.js\c\sqlite3.c</PackagePath>
-      <Modified>2018-03-11T17:02:41.683</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\sqlite3.h">
-      <PackagePath>lib\sql.js\c\sqlite3.h</PackagePath>
-      <Modified>2018-03-11T17:02:41.699</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\sqlite3ext.h">
-      <PackagePath>lib\sql.js\c\sqlite3ext.h</PackagePath>
-      <Modified>2018-03-11T17:02:41.715</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack.h</PackagePath>
-      <Modified>2018-02-25T15:42:09.846</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack_template.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack_template.h</PackagePath>
-      <Modified>2018-02-25T15:42:09.861</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\sysdep.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\sysdep.h</PackagePath>
-      <Modified>2018-02-25T15:42:09.878</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack.h</PackagePath>
-      <Modified>2018-02-25T15:42:09.892</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_define.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_define.h</PackagePath>
-      <Modified>2018-02-25T15:42:09.905</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_template.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_template.h</PackagePath>
-      <Modified>2018-02-25T15:42:09.918</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\base.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\base.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.007</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\bounds.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\bounds.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.021</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\compress.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\compress.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.036</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\mesh.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\mesh.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.049</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\optimize.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\optimize.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.100</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\stream.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\stream.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.113</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\utf8.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\utf8.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.127</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.694</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack_template.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack_template.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.709</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\sysdep.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\sysdep.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.723</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.741</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_define.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_define.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.757</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_template.h">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_template.h</PackagePath>
-      <Modified>2018-02-25T15:42:10.772</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\package.json">
-      <PackagePath>lib\sql.js\package.json</PackagePath>
-      <Modified>2018-03-11T17:02:41.562</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\bower.json">
-      <PackagePath>lib\three.js\three.js-dev\bower.json</PackagePath>
-      <Modified>2018-02-25T15:41:24.136</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\arkanoid.app.json">
-      <PackagePath>lib\three.js\three.js-dev\editor\examples\arkanoid.app.json</PackagePath>
-      <Modified>2018-02-25T15:41:29.405</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\camera.app.json">
-      <PackagePath>lib\three.js\three.js-dev\editor\examples\camera.app.json</PackagePath>
-      <Modified>2018-02-25T15:41:29.417</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\particles.app.json">
-      <PackagePath>lib\three.js\three.js-dev\editor\examples\particles.app.json</PackagePath>
-      <Modified>2018-02-25T15:41:29.430</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\pong.app.json">
-      <PackagePath>lib\three.js\three.js-dev\editor\examples\pong.app.json</PackagePath>
-      <Modified>2018-02-25T15:41:29.441</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\shaders.app.json">
-      <PackagePath>lib\three.js\three.js-dev\editor\examples\shaders.app.json</PackagePath>
-      <Modified>2018-02-25T15:41:29.453</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_bold.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_bold.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.314</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_mono_regular.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_mono_regular.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.329</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_regular.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_regular.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.344</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_bold.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_bold.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.361</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_regular.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_regular.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.381</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\gentilis_bold.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\gentilis_bold.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.195</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\gentilis_regular.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\gentilis_regular.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.214</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\helvetiker_bold.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\helvetiker_bold.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.228</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\helvetiker_regular.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\helvetiker_regular.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.240</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\optimer_bold.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\optimer_bold.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.253</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\optimer_regular.typeface.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\fonts\optimer_regular.typeface.json</PackagePath>
-      <Modified>2018-02-25T15:41:37.267</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\assimp\interior\interior.assimp.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\assimp\interior\interior.assimp.json</PackagePath>
-      <Modified>2018-02-25T15:41:42.700</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\assimp\jeep\jeep.assimp.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\assimp\jeep\jeep.assimp.json</PackagePath>
-      <Modified>2018-02-25T15:41:42.736</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\cubecolors\cubecolors.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\cubecolors\cubecolors.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.590</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\cubecolors\cube_fvc.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\cubecolors\cube_fvc.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.555</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\female02\Female02_slim.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\female02\Female02_slim.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.673</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\leeperrysmith\LeePerrySmith.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\leeperrysmith\LeePerrySmith.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.765</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\lightmap\lightmap.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\lightmap\lightmap.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.870</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\male02\Male02_dds.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\male02\Male02_dds.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.955</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\multimaterial.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\multimaterial.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.444</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\pressure.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\pressure.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.467</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\pump\pump.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\pump\pump.json</PackagePath>
-      <Modified>2018-02-25T15:41:48.013</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\QRCode.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\QRCode.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.419</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\scene-animation.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\scene-animation.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.479</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\suzanne_buffergeometry.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\suzanne_buffergeometry.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.492</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\suzanne_geometry.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\suzanne_geometry.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.504</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\teapot-claraio.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\teapot-claraio.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.518</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\WaltHeadLo.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\json\WaltHeadLo.json</PackagePath>
-      <Modified>2018-02-25T15:41:47.432</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\platform\platform.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\platform\platform.json</PackagePath>
-      <Modified>2018-02-25T15:41:50.729</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\playcanvas\hand.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\playcanvas\hand.json</PackagePath>
-      <Modified>2018-02-25T15:41:50.749</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims.json</PackagePath>
-      <Modified>2018-02-25T15:41:51.880</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_all.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_all.json</PackagePath>
-      <Modified>2018-02-25T15:41:52.237</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_core.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_core.json</PackagePath>
-      <Modified>2018-02-25T15:41:52.378</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_single.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_single.json</PackagePath>
-      <Modified>2018-02-25T15:41:52.441</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_ik.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_ik.json</PackagePath>
-      <Modified>2018-02-25T15:41:52.519</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\UCS_config.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\UCS_config.json</PackagePath>
-      <Modified>2018-02-25T15:41:51.451</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\caustic.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\nodes\caustic.json</PackagePath>
-      <Modified>2018-02-25T15:41:53.597</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\displace.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\nodes\displace.json</PackagePath>
-      <Modified>2018-02-25T15:41:53.609</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\wave.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\nodes\wave.json</PackagePath>
-      <Modified>2018-02-25T15:41:53.621</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\xray.json">
-      <PackagePath>lib\three.js\three.js-dev\examples\nodes\xray.json</PackagePath>
-      <Modified>2018-02-25T15:41:53.634</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\package.json">
-      <PackagePath>lib\three.js\three.js-dev\package.json</PackagePath>
-      <Modified>2018-02-25T15:41:24.148</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\package-lock.json">
-      <PackagePath>package-lock.json</PackagePath>
-      <Modified>2018-02-25T15:47:38.156</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\package.json">
-      <PackagePath>package.json</PackagePath>
-      <Modified>2018-02-25T15:47:38.168</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\test\issue55.db">
-      <PackagePath>lib\sql.js\test\issue55.db</PackagePath>
-      <Modified>2018-03-11T17:02:42.169</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\test\run.sh">
-      <PackagePath>lib\sql.js\test\run.sh</PackagePath>
-      <Modified>2018-03-11T17:02:42.185</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\nodejs_server.sh">
-      <PackagePath>lib\three.js\three.js-dev\utils\servers\nodejs_server.sh</PackagePath>
-      <Modified>2018-02-25T15:42:11.947</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\perl_server.sh">
-      <PackagePath>lib\three.js\three.js-dev\utils\servers\perl_server.sh</PackagePath>
-      <Modified>2018-02-25T15:42:11.962</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\python_server.sh">
-      <PackagePath>lib\three.js\three.js-dev\utils\servers\python_server.sh</PackagePath>
-      <Modified>2018-02-25T15:42:11.976</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\ruby_server.sh">
-      <PackagePath>lib\three.js\three.js-dev\utils\servers\ruby_server.sh</PackagePath>
-      <Modified>2018-02-25T15:42:12.007</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\test\test.sqlite">
-      <PackagePath>lib\sql.js\test\test.sqlite</PackagePath>
-      <Modified>2018-03-11T17:02:42.216</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\main.css">
-      <PackagePath>main.css</PackagePath>
-      <Modified>2018-02-26T10:57:19.123</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\treant\basic-example.css">
-      <PackagePath>css\treant\basic-example.css</PackagePath>
-      <Modified>2018-02-25T17:38:23.985</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\sb-admin.css">
-      <PackagePath>css\sb-admin.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.254</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\sb-admin.min.css">
-      <PackagePath>css\sb-admin.min.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.287</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\default.css">
-      <PackagePath>css\default.css</PackagePath>
-      <Modified>2018-02-25T15:30:06.304</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\index.css">
-      <PackagePath>lib\three.js\three.js-dev\docs\index.css</PackagePath>
-      <Modified>2018-02-25T15:41:24.308</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\page.css">
-      <PackagePath>lib\three.js\three.js-dev\docs\page.css</PackagePath>
-      <Modified>2018-02-25T15:41:24.360</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\prettify\prettify.css">
-      <PackagePath>lib\three.js\three.js-dev\docs\prettify\prettify.css</PackagePath>
-      <Modified>2018-02-25T15:41:29.131</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\prettify\threejs.css">
-      <PackagePath>lib\three.js\three.js-dev\docs\prettify\threejs.css</PackagePath>
-      <Modified>2018-02-25T15:41:29.177</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\css\dark.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\css\dark.css</PackagePath>
-      <Modified>2018-02-25T15:41:29.319</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\css\light.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\css\light.css</PackagePath>
-      <Modified>2018-02-25T15:41:29.337</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\css\main.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\css\main.css</PackagePath>
-      <Modified>2018-02-25T15:41:29.355</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\dialog.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\dialog.css</PackagePath>
-      <Modified>2018-02-25T15:41:30.802</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\show-hint.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\show-hint.css</PackagePath>
-      <Modified>2018-02-25T15:41:30.834</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\tern.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\tern.css</PackagePath>
-      <Modified>2018-02-25T15:41:30.865</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\codemirror.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\codemirror.css</PackagePath>
-      <Modified>2018-02-25T15:41:30.759</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\theme\monokai.css">
-      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\theme\monokai.css</PackagePath>
-      <Modified>2018-02-25T15:41:30.942</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\test\benchmark\normalize.css">
-      <PackagePath>lib\three.js\three.js-dev\test\benchmark\normalize.css</PackagePath>
-      <Modified>2018-02-25T15:42:04.125</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\test\benchmark\style.css">
-      <PackagePath>lib\three.js\three.js-dev\test\benchmark\style.css</PackagePath>
-      <Modified>2018-02-25T15:42:04.141</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\tests\scripts\css\style.css">
-      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\tests\scripts\css\style.css</PackagePath>
-      <Modified>2018-02-25T15:42:11.902</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\winjs-4.0.1\css\ui-light.css">
-      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
-      <Modified>2018-02-20T16:49:10.093</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\winjs-4.0.1\css\ui-dark.css">
-      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
-      <Modified>2018-02-20T16:49:10.093</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\treant\treant.css">
-      <PackagePath>css\treant\treant.css</PackagePath>
-      <Modified>2018-02-25T17:38:23.904</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-grid.css">
-      <PackagePath>vendor\bootstrap\css\bootstrap-grid.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.839</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-grid.min.css">
-      <PackagePath>vendor\bootstrap\css\bootstrap-grid.min.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.870</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-reboot.css">
-      <PackagePath>vendor\bootstrap\css\bootstrap-reboot.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.892</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-reboot.min.css">
-      <PackagePath>vendor\bootstrap\css\bootstrap-reboot.min.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.910</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.css">
-      <PackagePath>vendor\bootstrap\css\bootstrap.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.932</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.min.css">
-      <PackagePath>vendor\bootstrap\css\bootstrap.min.css</PackagePath>
-      <Modified>2018-02-25T15:47:38.971</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\datatables\dataTables.bootstrap4.css">
-      <PackagePath>vendor\datatables\dataTables.bootstrap4.css</PackagePath>
-      <Modified>2018-02-25T15:47:39.239</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\css\font-awesome.css">
-      <PackagePath>vendor\font-awesome\css\font-awesome.css</PackagePath>
-      <Modified>2018-02-25T15:47:39.316</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\css\font-awesome.min.css">
-      <PackagePath>vendor\font-awesome\css\font-awesome.min.css</PackagePath>
-      <Modified>2018-02-25T15:47:39.351</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\perfect-scrollbar\perfect-scrollbar.css">
-      <PackagePath>vendor\perfect-scrollbar\perfect-scrollbar.css</PackagePath>
-      <Modified>2018-02-25T17:38:25.953</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\project.xml">
-      <PackagePath>project.xml</PackagePath>
-      <Modified>2018-02-26T10:57:19.153</Modified>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\demo\images\driver.png">
+      <PackagePath>lib\driver.js\demo\images\driver.png</PackagePath>
+      <Modified>2018-03-17T14:07:33.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\demo\images\separator.png">
+      <PackagePath>lib\driver.js\demo\images\separator.png</PackagePath>
+      <Modified>2018-03-17T14:07:33.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\demo\images\split.png">
+      <PackagePath>lib\driver.js\demo\images\split.png</PackagePath>
+      <Modified>2018-03-17T14:07:33.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\images\LockScreenLogo.scale-200.png">
       <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
@@ -8897,6 +8441,718 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\tests\blend\textures\normal.png">
       <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\tests\blend\textures\normal.png</PackagePath>
       <Modified>2018-02-25T15:42:11.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\demo\styles\base.scss">
+      <PackagePath>lib\driver.js\demo\styles\base.scss</PackagePath>
+      <Modified>2018-03-17T14:07:33.349</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\demo\styles\demo.scss">
+      <PackagePath>lib\driver.js\demo\styles\demo.scss</PackagePath>
+      <Modified>2018-03-17T14:07:33.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\src\driver.scss">
+      <PackagePath>lib\driver.js\src\driver.scss</PackagePath>
+      <Modified>2018-03-17T14:07:33.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_colors.scss">
+      <PackagePath>scss\navbar\_navbar_colors.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_fixed.scss">
+      <PackagePath>scss\navbar\_navbar_fixed.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.771</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_global.scss">
+      <PackagePath>scss\navbar\_navbar_global.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_static.scss">
+      <PackagePath>scss\navbar\_navbar_static.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_toggle.scss">
+      <PackagePath>scss\navbar\_navbar_toggle.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\sb-admin.scss">
+      <PackagePath>scss\sb-admin.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_cards.scss">
+      <PackagePath>scss\_cards.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_footer.scss">
+      <PackagePath>scss\_footer.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_global.scss">
+      <PackagePath>scss\_global.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_login.scss">
+      <PackagePath>scss\_login.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_mixins.scss">
+      <PackagePath>scss\_mixins.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_utilities.scss">
+      <PackagePath>scss\_utilities.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_variables.scss">
+      <PackagePath>scss\_variables.scss</PackagePath>
+      <Modified>2018-02-25T15:47:38.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\font-awesome.scss">
+      <PackagePath>vendor\font-awesome\scss\font-awesome.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_animated.scss">
+      <PackagePath>vendor\font-awesome\scss\_animated.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_bordered-pulled.scss">
+      <PackagePath>vendor\font-awesome\scss\_bordered-pulled.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_core.scss">
+      <PackagePath>vendor\font-awesome\scss\_core.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_fixed-width.scss">
+      <PackagePath>vendor\font-awesome\scss\_fixed-width.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.770</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_icons.scss">
+      <PackagePath>vendor\font-awesome\scss\_icons.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_larger.scss">
+      <PackagePath>vendor\font-awesome\scss\_larger.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_list.scss">
+      <PackagePath>vendor\font-awesome\scss\_list.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_mixins.scss">
+      <PackagePath>vendor\font-awesome\scss\_mixins.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.831</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_path.scss">
+      <PackagePath>vendor\font-awesome\scss\_path.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.844</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_rotated-flipped.scss">
+      <PackagePath>vendor\font-awesome\scss\_rotated-flipped.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.859</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_screen-reader.scss">
+      <PackagePath>vendor\font-awesome\scss\_screen-reader.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_stacked.scss">
+      <PackagePath>vendor\font-awesome\scss\_stacked.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.890</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_variables.scss">
+      <PackagePath>vendor\font-awesome\scss\_variables.scss</PackagePath>
+      <Modified>2018-02-25T15:47:39.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\dist\driver.min.css">
+      <PackagePath>lib\driver.js\dist\driver.min.css</PackagePath>
+      <Modified>2018-03-17T14:07:33.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\main.css">
+      <PackagePath>main.css</PackagePath>
+      <Modified>2018-02-26T10:57:19.123</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\treant\basic-example.css">
+      <PackagePath>css\treant\basic-example.css</PackagePath>
+      <Modified>2018-02-25T17:38:23.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\sb-admin.css">
+      <PackagePath>css\sb-admin.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.254</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\sb-admin.min.css">
+      <PackagePath>css\sb-admin.min.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2018-02-25T15:30:06.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\index.css">
+      <PackagePath>lib\three.js\three.js-dev\docs\index.css</PackagePath>
+      <Modified>2018-02-25T15:41:24.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\page.css">
+      <PackagePath>lib\three.js\three.js-dev\docs\page.css</PackagePath>
+      <Modified>2018-02-25T15:41:24.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\prettify\prettify.css">
+      <PackagePath>lib\three.js\three.js-dev\docs\prettify\prettify.css</PackagePath>
+      <Modified>2018-02-25T15:41:29.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\docs\prettify\threejs.css">
+      <PackagePath>lib\three.js\three.js-dev\docs\prettify\threejs.css</PackagePath>
+      <Modified>2018-02-25T15:41:29.177</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\css\dark.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\css\dark.css</PackagePath>
+      <Modified>2018-02-25T15:41:29.319</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\css\light.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\css\light.css</PackagePath>
+      <Modified>2018-02-25T15:41:29.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\css\main.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\css\main.css</PackagePath>
+      <Modified>2018-02-25T15:41:29.355</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\dialog.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\dialog.css</PackagePath>
+      <Modified>2018-02-25T15:41:30.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\show-hint.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\show-hint.css</PackagePath>
+      <Modified>2018-02-25T15:41:30.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\tern.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\addon\tern.css</PackagePath>
+      <Modified>2018-02-25T15:41:30.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\codemirror.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\codemirror.css</PackagePath>
+      <Modified>2018-02-25T15:41:30.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\js\libs\codemirror\theme\monokai.css">
+      <PackagePath>lib\three.js\three.js-dev\editor\js\libs\codemirror\theme\monokai.css</PackagePath>
+      <Modified>2018-02-25T15:41:30.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\test\benchmark\normalize.css">
+      <PackagePath>lib\three.js\three.js-dev\test\benchmark\normalize.css</PackagePath>
+      <Modified>2018-02-25T15:42:04.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\test\benchmark\style.css">
+      <PackagePath>lib\three.js\three.js-dev\test\benchmark\style.css</PackagePath>
+      <Modified>2018-02-25T15:42:04.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\tests\scripts\css\style.css">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\tests\scripts\css\style.css</PackagePath>
+      <Modified>2018-02-25T15:42:11.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2018-02-20T16:49:10.093</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\css\treant\treant.css">
+      <PackagePath>css\treant\treant.css</PackagePath>
+      <Modified>2018-02-25T17:38:23.904</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-grid.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-grid.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-grid.min.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-grid.min.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-reboot.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-reboot.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap-reboot.min.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap-reboot.min.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.min.css">
+      <PackagePath>vendor\bootstrap\css\bootstrap.min.css</PackagePath>
+      <Modified>2018-02-25T15:47:38.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\datatables\dataTables.bootstrap4.css">
+      <PackagePath>vendor\datatables\dataTables.bootstrap4.css</PackagePath>
+      <Modified>2018-02-25T15:47:39.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\css\font-awesome.css">
+      <PackagePath>vendor\font-awesome\css\font-awesome.css</PackagePath>
+      <Modified>2018-02-25T15:47:39.316</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\css\font-awesome.min.css">
+      <PackagePath>vendor\font-awesome\css\font-awesome.min.css</PackagePath>
+      <Modified>2018-02-25T15:47:39.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\perfect-scrollbar\perfect-scrollbar.css">
+      <PackagePath>vendor\perfect-scrollbar\perfect-scrollbar.css</PackagePath>
+      <Modified>2018-02-25T17:38:25.953</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\dist\driver.min.css.map">
+      <PackagePath>lib\driver.js\dist\driver.min.css.map</PackagePath>
+      <Modified>2018-03-17T14:07:33.427</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\driver.js\dist\driver.min.js.map">
+      <PackagePath>lib\driver.js\dist\driver.min.js.map</PackagePath>
+      <Modified>2018-03-17T14:07:33.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.css.map">
+      <PackagePath>vendor\bootstrap\css\bootstrap.css.map</PackagePath>
+      <Modified>2018-02-25T15:47:38.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.min.css.map">
+      <PackagePath>vendor\bootstrap\css\bootstrap.min.css.map</PackagePath>
+      <Modified>2018-02-25T15:47:38.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.bundle.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.js.map</PackagePath>
+      <Modified>2018-02-25T15:47:39.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.bundle.min.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.min.js.map</PackagePath>
+      <Modified>2018-02-25T15:47:39.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.js.map</PackagePath>
+      <Modified>2018-02-25T15:47:39.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.min.js.map">
+      <PackagePath>vendor\bootstrap\js\bootstrap.min.js.map</PackagePath>
+      <Modified>2018-02-25T15:47:39.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\css\font-awesome.css.map">
+      <PackagePath>vendor\font-awesome\css\font-awesome.css.map</PackagePath>
+      <Modified>2018-02-25T15:47:39.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\jquery\jquery.min.map">
+      <PackagePath>vendor\jquery\jquery.min.map</PackagePath>
+      <Modified>2018-02-25T15:47:40.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\jquery\jquery.slim.min.map">
+      <PackagePath>vendor\jquery\jquery.slim.min.map</PackagePath>
+      <Modified>2018-02-25T15:47:40.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\.gitignore">
+      <PackagePath>lib\sql.js\.gitignore</PackagePath>
+      <Modified>2018-03-11T17:02:41.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\.gitignore">
+      <PackagePath>lib\three.js\three.js-dev\.gitignore</PackagePath>
+      <Modified>2018-02-25T15:41:24.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\.gitignore">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\.gitignore</PackagePath>
+      <Modified>2018-02-25T15:42:10.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\.npmignore">
+      <PackagePath>lib\sql.js\.npmignore</PackagePath>
+      <Modified>2018-03-11T17:02:41.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\.npmignore">
+      <PackagePath>lib\three.js\three.js-dev\.npmignore</PackagePath>
+      <Modified>2018-02-25T15:41:24.074</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\AUTHORS">
+      <PackagePath>lib\sql.js\AUTHORS</PackagePath>
+      <Modified>2018-03-11T17:02:41.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\exported_functions">
+      <PackagePath>lib\sql.js\exported_functions</PackagePath>
+      <Modified>2018-03-11T17:02:41.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\exported_runtime_methods">
+      <PackagePath>lib\sql.js\exported_runtime_methods</PackagePath>
+      <Modified>2018-03-11T17:02:41.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\LICENSE">
+      <PackagePath>lib\sql.js\LICENSE</PackagePath>
+      <Modified>2018-03-11T17:02:41.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\Makefile">
+      <PackagePath>lib\sql.js\Makefile</PackagePath>
+      <Modified>2018-03-11T17:02:41.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\NOTICE">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\NOTICE</PackagePath>
+      <Modified>2018-02-25T15:41:37.282</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\LICENSE">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\LICENSE</PackagePath>
+      <Modified>2018-02-25T15:41:37.165</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\README">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\README</PackagePath>
+      <Modified>2018-02-25T15:41:37.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\mmd\LICENSE">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\mmd\LICENSE</PackagePath>
+      <Modified>2018-02-25T15:41:48.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\LICENSE">
+      <PackagePath>lib\three.js\three.js-dev\LICENSE</PackagePath>
+      <Modified>2018-02-25T15:41:24.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\fbx\LICENSE">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\fbx\LICENSE</PackagePath>
+      <Modified>2018-02-25T15:42:09.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\README">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\README</PackagePath>
+      <Modified>2018-02-25T15:42:09.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\LICENSE">
+      <PackagePath>LICENSE</PackagePath>
+      <Modified>2018-02-25T15:47:37.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\api-data.coffee">
+      <PackagePath>lib\sql.js\coffee\api-data.coffee</PackagePath>
+      <Modified>2018-03-11T17:02:41.730</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\api.coffee">
+      <PackagePath>lib\sql.js\coffee\api.coffee</PackagePath>
+      <Modified>2018-03-11T17:02:41.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\exports.coffee">
+      <PackagePath>lib\sql.js\coffee\exports.coffee</PackagePath>
+      <Modified>2018-03-11T17:02:41.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\coffee\worker.coffee">
+      <PackagePath>lib\sql.js\coffee\worker.coffee</PackagePath>
+      <Modified>2018-03-11T17:02:41.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\extension-functions.c">
+      <PackagePath>lib\sql.js\c\extension-functions.c</PackagePath>
+      <Modified>2018-03-11T17:02:41.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\sqlite3.c">
+      <PackagePath>lib\sql.js\c\sqlite3.c</PackagePath>
+      <Modified>2018-03-11T17:02:41.683</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\sqlite3.h">
+      <PackagePath>lib\sql.js\c\sqlite3.h</PackagePath>
+      <Modified>2018-03-11T17:02:41.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\c\sqlite3ext.h">
+      <PackagePath>lib\sql.js\c\sqlite3ext.h</PackagePath>
+      <Modified>2018-03-11T17:02:41.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack.h</PackagePath>
+      <Modified>2018-02-25T15:42:09.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack_template.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\pack_template.h</PackagePath>
+      <Modified>2018-02-25T15:42:09.861</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\sysdep.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\sysdep.h</PackagePath>
+      <Modified>2018-02-25T15:42:09.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack.h</PackagePath>
+      <Modified>2018-02-25T15:42:09.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_define.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_define.h</PackagePath>
+      <Modified>2018-02-25T15:42:09.905</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_template.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\msgpack\msgpack\unpack_template.h</PackagePath>
+      <Modified>2018-02-25T15:42:09.918</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\base.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\base.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\bounds.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\bounds.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\compress.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\compress.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\mesh.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\mesh.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\optimize.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\optimize.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\stream.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\stream.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\converters\utf8\src\utf8.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\converters\utf8\src\utf8.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.127</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack_template.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\pack_template.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\sysdep.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\sysdep.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.741</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_define.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_define.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_template.h">
+      <PackagePath>lib\three.js\three.js-dev\utils\exporters\blender\modules\msgpack\unpack_template.h</PackagePath>
+      <Modified>2018-02-25T15:42:10.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\package.json">
+      <PackagePath>lib\sql.js\package.json</PackagePath>
+      <Modified>2018-03-11T17:02:41.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\bower.json">
+      <PackagePath>lib\three.js\three.js-dev\bower.json</PackagePath>
+      <Modified>2018-02-25T15:41:24.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\arkanoid.app.json">
+      <PackagePath>lib\three.js\three.js-dev\editor\examples\arkanoid.app.json</PackagePath>
+      <Modified>2018-02-25T15:41:29.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\camera.app.json">
+      <PackagePath>lib\three.js\three.js-dev\editor\examples\camera.app.json</PackagePath>
+      <Modified>2018-02-25T15:41:29.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\particles.app.json">
+      <PackagePath>lib\three.js\three.js-dev\editor\examples\particles.app.json</PackagePath>
+      <Modified>2018-02-25T15:41:29.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\pong.app.json">
+      <PackagePath>lib\three.js\three.js-dev\editor\examples\pong.app.json</PackagePath>
+      <Modified>2018-02-25T15:41:29.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\editor\examples\shaders.app.json">
+      <PackagePath>lib\three.js\three.js-dev\editor\examples\shaders.app.json</PackagePath>
+      <Modified>2018-02-25T15:41:29.453</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_bold.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_bold.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_mono_regular.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_mono_regular.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_regular.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_sans_regular.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_bold.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_bold.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_regular.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\droid\droid_serif_regular.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\gentilis_bold.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\gentilis_bold.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\gentilis_regular.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\gentilis_regular.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.214</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\helvetiker_bold.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\helvetiker_bold.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\helvetiker_regular.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\helvetiker_regular.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.240</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\optimer_bold.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\optimer_bold.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\fonts\optimer_regular.typeface.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\fonts\optimer_regular.typeface.json</PackagePath>
+      <Modified>2018-02-25T15:41:37.267</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\assimp\interior\interior.assimp.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\assimp\interior\interior.assimp.json</PackagePath>
+      <Modified>2018-02-25T15:41:42.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\assimp\jeep\jeep.assimp.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\assimp\jeep\jeep.assimp.json</PackagePath>
+      <Modified>2018-02-25T15:41:42.736</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\cubecolors\cubecolors.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\cubecolors\cubecolors.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\cubecolors\cube_fvc.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\cubecolors\cube_fvc.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\female02\Female02_slim.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\female02\Female02_slim.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\leeperrysmith\LeePerrySmith.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\leeperrysmith\LeePerrySmith.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\lightmap\lightmap.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\lightmap\lightmap.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\male02\Male02_dds.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\male02\Male02_dds.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.955</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\multimaterial.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\multimaterial.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\pressure.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\pressure.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\pump\pump.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\pump\pump.json</PackagePath>
+      <Modified>2018-02-25T15:41:48.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\QRCode.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\QRCode.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.419</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\scene-animation.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\scene-animation.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\suzanne_buffergeometry.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\suzanne_buffergeometry.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\suzanne_geometry.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\suzanne_geometry.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\teapot-claraio.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\teapot-claraio.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\json\WaltHeadLo.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\json\WaltHeadLo.json</PackagePath>
+      <Modified>2018-02-25T15:41:47.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\platform\platform.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\platform\platform.json</PackagePath>
+      <Modified>2018-02-25T15:41:50.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\playcanvas\hand.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\playcanvas\hand.json</PackagePath>
+      <Modified>2018-02-25T15:41:50.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims.json</PackagePath>
+      <Modified>2018-02-25T15:41:51.880</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_all.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_all.json</PackagePath>
+      <Modified>2018-02-25T15:41:52.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_core.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_core.json</PackagePath>
+      <Modified>2018-02-25T15:41:52.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_single.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_anims_single.json</PackagePath>
+      <Modified>2018-02-25T15:41:52.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\marine\marine_ik.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\marine\marine_ik.json</PackagePath>
+      <Modified>2018-02-25T15:41:52.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\models\skinned\UCS_config.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\models\skinned\UCS_config.json</PackagePath>
+      <Modified>2018-02-25T15:41:51.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\caustic.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\nodes\caustic.json</PackagePath>
+      <Modified>2018-02-25T15:41:53.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\displace.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\nodes\displace.json</PackagePath>
+      <Modified>2018-02-25T15:41:53.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\wave.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\nodes\wave.json</PackagePath>
+      <Modified>2018-02-25T15:41:53.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\examples\nodes\xray.json">
+      <PackagePath>lib\three.js\three.js-dev\examples\nodes\xray.json</PackagePath>
+      <Modified>2018-02-25T15:41:53.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\package.json">
+      <PackagePath>lib\three.js\three.js-dev\package.json</PackagePath>
+      <Modified>2018-02-25T15:41:24.148</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\package-lock.json">
+      <PackagePath>package-lock.json</PackagePath>
+      <Modified>2018-02-25T15:47:38.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\package.json">
+      <PackagePath>package.json</PackagePath>
+      <Modified>2018-02-25T15:47:38.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\test\issue55.db">
+      <PackagePath>lib\sql.js\test\issue55.db</PackagePath>
+      <Modified>2018-03-11T17:02:42.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\test\run.sh">
+      <PackagePath>lib\sql.js\test\run.sh</PackagePath>
+      <Modified>2018-03-11T17:02:42.185</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\nodejs_server.sh">
+      <PackagePath>lib\three.js\three.js-dev\utils\servers\nodejs_server.sh</PackagePath>
+      <Modified>2018-02-25T15:42:11.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\perl_server.sh">
+      <PackagePath>lib\three.js\three.js-dev\utils\servers\perl_server.sh</PackagePath>
+      <Modified>2018-02-25T15:42:11.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\python_server.sh">
+      <PackagePath>lib\three.js\three.js-dev\utils\servers\python_server.sh</PackagePath>
+      <Modified>2018-02-25T15:42:11.976</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\utils\servers\ruby_server.sh">
+      <PackagePath>lib\three.js\three.js-dev\utils\servers\ruby_server.sh</PackagePath>
+      <Modified>2018-02-25T15:42:12.007</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\sql.js\test\test.sqlite">
+      <PackagePath>lib\sql.js\test\test.sqlite</PackagePath>
+      <Modified>2018-03-11T17:02:42.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2018-03-19T17:31:19.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\lib\three.js\three.js-dev\.gitattributes">
       <PackagePath>lib\three.js\three.js-dev\.gitattributes</PackagePath>
@@ -11098,150 +11354,6 @@
       <PackagePath>pug\tables.pug</PackagePath>
       <Modified>2018-02-25T15:47:38.515</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_colors.scss">
-      <PackagePath>scss\navbar\_navbar_colors.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.759</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_fixed.scss">
-      <PackagePath>scss\navbar\_navbar_fixed.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.771</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_global.scss">
-      <PackagePath>scss\navbar\_navbar_global.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.783</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_static.scss">
-      <PackagePath>scss\navbar\_navbar_static.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.794</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\navbar\_navbar_toggle.scss">
-      <PackagePath>scss\navbar\_navbar_toggle.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.805</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\sb-admin.scss">
-      <PackagePath>scss\sb-admin.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.743</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_cards.scss">
-      <PackagePath>scss\_cards.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.662</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_footer.scss">
-      <PackagePath>scss\_footer.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.675</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_global.scss">
-      <PackagePath>scss\_global.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.687</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_login.scss">
-      <PackagePath>scss\_login.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.698</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_mixins.scss">
-      <PackagePath>scss\_mixins.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.709</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_utilities.scss">
-      <PackagePath>scss\_utilities.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.721</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\scss\_variables.scss">
-      <PackagePath>scss\_variables.scss</PackagePath>
-      <Modified>2018-02-25T15:47:38.732</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\font-awesome.scss">
-      <PackagePath>vendor\font-awesome\scss\font-awesome.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.919</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_animated.scss">
-      <PackagePath>vendor\font-awesome\scss\_animated.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.727</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_bordered-pulled.scss">
-      <PackagePath>vendor\font-awesome\scss\_bordered-pulled.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.742</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_core.scss">
-      <PackagePath>vendor\font-awesome\scss\_core.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.756</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_fixed-width.scss">
-      <PackagePath>vendor\font-awesome\scss\_fixed-width.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.770</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_icons.scss">
-      <PackagePath>vendor\font-awesome\scss\_icons.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.788</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_larger.scss">
-      <PackagePath>vendor\font-awesome\scss\_larger.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.803</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_list.scss">
-      <PackagePath>vendor\font-awesome\scss\_list.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.817</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_mixins.scss">
-      <PackagePath>vendor\font-awesome\scss\_mixins.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.831</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_path.scss">
-      <PackagePath>vendor\font-awesome\scss\_path.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.844</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_rotated-flipped.scss">
-      <PackagePath>vendor\font-awesome\scss\_rotated-flipped.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.859</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_screen-reader.scss">
-      <PackagePath>vendor\font-awesome\scss\_screen-reader.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.876</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_stacked.scss">
-      <PackagePath>vendor\font-awesome\scss\_stacked.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.890</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\scss\_variables.scss">
-      <PackagePath>vendor\font-awesome\scss\_variables.scss</PackagePath>
-      <Modified>2018-02-25T15:47:39.904</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.css.map">
-      <PackagePath>vendor\bootstrap\css\bootstrap.css.map</PackagePath>
-      <Modified>2018-02-25T15:47:38.949</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\css\bootstrap.min.css.map">
-      <PackagePath>vendor\bootstrap\css\bootstrap.min.css.map</PackagePath>
-      <Modified>2018-02-25T15:47:38.990</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.bundle.js.map">
-      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.js.map</PackagePath>
-      <Modified>2018-02-25T15:47:39.030</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.bundle.min.js.map">
-      <PackagePath>vendor\bootstrap\js\bootstrap.bundle.min.js.map</PackagePath>
-      <Modified>2018-02-25T15:47:39.062</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.js.map">
-      <PackagePath>vendor\bootstrap\js\bootstrap.js.map</PackagePath>
-      <Modified>2018-02-25T15:47:39.095</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\bootstrap\js\bootstrap.min.js.map">
-      <PackagePath>vendor\bootstrap\js\bootstrap.min.js.map</PackagePath>
-      <Modified>2018-02-25T15:47:39.126</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\css\font-awesome.css.map">
-      <PackagePath>vendor\font-awesome\css\font-awesome.css.map</PackagePath>
-      <Modified>2018-02-25T15:47:39.334</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\jquery\jquery.min.map">
-      <PackagePath>vendor\jquery\jquery.min.map</PackagePath>
-      <Modified>2018-02-25T15:47:40.034</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\jquery\jquery.slim.min.map">
-      <PackagePath>vendor\jquery\jquery.slim.min.map</PackagePath>
-      <Modified>2018-02-25T15:47:40.083</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\vendor\font-awesome\fonts\fontawesome-webfont.eot">
       <PackagePath>vendor\font-awesome\fonts\fontawesome-webfont.eot</PackagePath>
       <Modified>2018-02-25T15:47:39.397</Modified>
@@ -11317,7 +11429,7 @@
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\bin\Debug\ReverseMap\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-03-11T17:25:22.328</Modified>
+      <Modified>2018-03-19T17:37:12.692</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

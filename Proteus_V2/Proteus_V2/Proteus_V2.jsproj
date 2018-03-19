@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Default.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Uap.props" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Uap.props')" />
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|AnyCPU">
       <Configuration>Debug</Configuration>
@@ -39,6 +41,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>b9bdac4d-ff26-4446-bfff-10361942b656</ProjectGuid>
+    <TypeScriptToolsVersion>2.6</TypeScriptToolsVersion>
   </PropertyGroup>
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '15.0'">
@@ -60,10 +63,12 @@
     </AppxManifest>
     <Content Include=".jsbeautifyrc" />
     <Content Include=".travis.yml" />
+    <Content Include="analytics.xml" />
     <Content Include="CONTRIBUTING.md" />
     <Content Include="dev.html" />
     <Content Include="fileBrowser.html" />
     <Content Include="home-bg.jpg" />
+    <Content Include="js\driverjs\test.js" />
     <Content Include="js\sqljs\page.html" />
     <Content Include="js\sqljs\require.js" />
     <Content Include="js\sqljs\sql-requirejs.js" />
@@ -74,6 +79,27 @@
     <Content Include="js\threejs\jsonTester.html" />
     <Content Include="js\treant\structures\fs-structure-v0.1.js" />
     <Content Include="js\windows\fileBrowser.js" />
+    <Content Include="lib\driver.js\demo\images\driver.png" />
+    <Content Include="lib\driver.js\demo\images\separator.png" />
+    <Content Include="lib\driver.js\demo\images\split.png" />
+    <Content Include="lib\driver.js\demo\scripts\demo.js" />
+    <Content Include="lib\driver.js\demo\scripts\emoji.js" />
+    <Content Include="lib\driver.js\demo\styles\base.scss" />
+    <Content Include="lib\driver.js\demo\styles\demo.scss" />
+    <Content Include="lib\driver.js\dist\driver.min.css" />
+    <Content Include="lib\driver.js\dist\driver.min.css.map" />
+    <Content Include="lib\driver.js\dist\driver.min.js" />
+    <Content Include="lib\driver.js\dist\driver.min.js.map" />
+    <Content Include="lib\driver.js\src\common\constants.js" />
+    <Content Include="lib\driver.js\src\common\polyfill.js" />
+    <Content Include="lib\driver.js\src\common\utils.js" />
+    <Content Include="lib\driver.js\src\core\element.js" />
+    <Content Include="lib\driver.js\src\core\overlay.js" />
+    <Content Include="lib\driver.js\src\core\popover.js" />
+    <Content Include="lib\driver.js\src\core\position.js" />
+    <Content Include="lib\driver.js\src\core\stage.js" />
+    <Content Include="lib\driver.js\src\driver.scss" />
+    <Content Include="lib\driver.js\src\index.js" />
     <Content Include="lib\sql.js\.gitignore" />
     <Content Include="lib\sql.js\.npmignore" />
     <Content Include="lib\sql.js\.travis.yml" />
@@ -116,6 +142,7 @@
     <Content Include="lib\sql.js\test\test_statement.js" />
     <Content Include="lib\sql.js\test\test_transactions.js" />
     <Content Include="lib\sql.js\test\test_worker.js" />
+    <Content Include="packages.config" />
     <Content Include="pages\tools\create_designNote.html" />
     <Content Include="pages\tools\create_meetingNotes.html" />
     <Content Include="pages\tools\dispay_decisions.html" />
@@ -124,6 +151,9 @@
     <Content Include="pages\tools\display_meetingNotes.html" />
     <Content Include="pages\tools\create_productRequirement.html" />
     <Content Include="pages\tools\display_productRequirements.html" />
+    <Content Include="services\analytics\analytics.js" />
+    <Content Include="services\analytics\script.js" />
+    <Content Include="services\analytics\tag.js" />
     <Content Include="stlviewer\aero.html" />
     <Content Include="index.html" />
     <Content Include="stlviewer\sqltest2.html" />
@@ -2899,7 +2929,28 @@
   <ItemGroup>
     <Folder Include="js\chartjs\" />
   </ItemGroup>
+  <ItemGroup>
+    <Service Include="{4a0dddb5-7a95-4fbf-97cc-616d07737a77}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="GoogleAnalytics">
+      <HintPath>..\packages\UWP.SDKforGoogleAnalytics.Native.1.5.2\lib\uap10.0\GoogleAnalytics.winmd</HintPath>
+      <IsWinMDFile>true</IsWinMDFile>
+      <CopyLocal>True</CopyLocal>
+      <SpecificVersion>True</SpecificVersion>
+    </Reference>
+  </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Uap.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.Uap.targets')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.jsproj.targets" Condition="Exists('$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.jsproj.targets')" />
+  <Import Project="..\packages\UWP.SDKforGoogleAnalytics.Native.1.5.2\build\uap\UWP.SDKforGoogleAnalytics.Native.targets" Condition="Exists('..\packages\UWP.SDKforGoogleAnalytics.Native.1.5.2\build\uap\UWP.SDKforGoogleAnalytics.Native.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\UWP.SDKforGoogleAnalytics.Native.1.5.2\build\uap\UWP.SDKforGoogleAnalytics.Native.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\UWP.SDKforGoogleAnalytics.Native.1.5.2\build\uap\UWP.SDKforGoogleAnalytics.Native.targets'))" />
+  </Target>
   <!-- To modify your build process, add your task inside one of the targets below then uncomment
        that target and the DisableFastUpToDateCheck PropertyGroup. 
        Other similar extension points exist, see Microsoft.Common.targets.

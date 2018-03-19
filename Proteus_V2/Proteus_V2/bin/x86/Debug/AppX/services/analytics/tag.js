@@ -1,0 +1,1 @@
+﻿var tracker = GoogleAnalytics.AnalyticsManager.current.createTracker("UA-116014805-1");
