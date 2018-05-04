@@ -230,7 +230,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\index.html">
       <PackagePath>index.html</PackagePath>
-      <Modified>2018-03-10T14:11:32.800</Modified>
+      <Modified>2018-03-22T13:59:12.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\halln\Documents\GitHub\Proteus_V2\Proteus_V2\Proteus_V2\Proteus_V2\stlviewer\sqltest2.html">
       <PackagePath>stlviewer\sqltest2.html</PackagePath>
